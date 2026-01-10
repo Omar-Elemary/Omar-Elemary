@@ -41,10 +41,10 @@ I am a Data Scientist passionate about transforming raw data into actionable ins
     <td width="50%" valign="top">
       <h4>🛡️ Cyber Attack Detection</h4>
       <p align="justify">
-        Developed an <b>Intrusion Detection System (IDS)</b> using <b>Artificial Neural Networks (ANN)</b> and <b>SafeML</b> frameworks. Analyzed the <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision.
+        Developed an <b>Intrusion Detection System (IDS)</b> using <b>ANN</b>. Analyzed the <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision using SafeML frameworks.
       </p>
       <p>
-        <code>Python</code> <code>Deep Learning (ANN)</code> <code>Cybersecurity</code> <code>Kaggle</code>
+        <code>Deep Learning</code> <code>ANN</code> <code>Kaggle</code> <code>Security</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -59,15 +59,22 @@ I am a Data Scientist passionate about transforming raw data into actionable ins
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Tune Cloud</h4>
+      <h4>💳 Credit Risk & FinTech Analytics</h4>
       <p align="justify">
-        A music analytics platform leveraging data to track streaming trends. Developed a robust backend to handle <b>real-time data processing</b> and user behavior insights.
+        Built a predictive engine to assess creditworthiness for 20,000+ applicants. Designed a <b>Tableau Dashboard</b> to visualize default risks, debt-to-income ratios, and customer segmentation.
       </p>
       <p>
-        <code>Data Engineering</code> <code>Flask</code> <code>Cloud Computing</code>
+        <code>FinTech</code> <code>XGBoost</code> <code>Tableau</code> <code>SQL</code>
       </p>
     </td>
     <td width="50%" valign="top">
+      <h4>📈 Job Market Intelligence Scraper</h4>
+      <p align="justify">
+        Scraped 1,000+ job listings using <b>BeautifulSoup</b> and <b>Selenium</b>. Created a <b>Power BI</b> report to visualize trend analysis for in-demand tech skills and salary benchmarks.
+      </p>
+      <p>
+        <code>Scraping</code> <code>Power BI</code> <code>NLP</code> <code>Automation</code>
+      </p>
     </td>
   </tr>
 </table>
