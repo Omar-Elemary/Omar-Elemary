@@ -5,7 +5,7 @@
 <p align="center">
   <b>Data Scientist | Machine Learning Engineer | Tech Innovator</b><br>
   A <b>Computer Science student</b> at <b>Ain Shams University</b> (Class of 2027),<br>
-  specializing in AI, Deep Learning, and Business Intelligence.
+  specializing in AI, Deep Learning, and Cybersecurity Analytics.
 </p>
 
 <p align="center">
@@ -16,13 +16,12 @@
 
 ### 📑 Professional Summary
 
-I am a Data Scientist passionate about transforming raw data into actionable insights. With strong expertise in **Python, SQL, Machine Learning, and Tableau**, I bridge the gap between technical precision and business strategy. I specialize in analyzing complex datasets and designing predictive models that drive real-world impact and practical solutions.
+I am a Data Scientist passionate about transforming raw data into actionable insights. With strong expertise in **Python, SQL, Machine Learning, and Tableau**, I bridge the gap between technical precision and business strategy. I specialize in analyzing complex datasets and designing predictive models that drive real-world impact.
 
 ---
 
 ### 💼 Professional Experience
 
-I have built my expertise through high-impact internships in FinTech, AI, and Data Analytics, focusing on turning data into measurable business value.
 * 🤖 **AI Business Analyst Intern @ Hams.ai:** Market analysis and KPI tracking using Python and Power BI.
 * 🏦 **Data Science Intern @ CIB Egypt:** Financial data analysis, customer segmentation, and automated reporting.
 * 🧠 **Generative AI Intern @ ITI:** Building ML models for predictive analytics and optimizing AI workflows.
@@ -32,6 +31,46 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
 🌱 **Currently learning:** Deep Learning, Generative AI, and AI Infrastructure.
 🎯 **Goals:** Build ML projects with real datasets & contribute to open-source.
 💬 **Ask me about:** Python for Data, SQL, and Machine Learning basics.
+
+---
+
+### 🚀 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Cyber Attack Detection</h4>
+      <p align="justify">
+        Developed an <b>Intrusion Detection System (IDS)</b> using <b>Artificial Neural Networks (ANN)</b> and <b>SafeML</b> frameworks. Analyzed the <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision.
+      </p>
+      <p>
+        <code>Python</code> <code>Deep Learning (ANN)</code> <code>Cybersecurity</code> <code>Kaggle</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Boston Crime Analysis</h4>
+      <p align="justify">
+        A deep dive into 300,000+ crime records to identify high-risk zones. Applied <b>Clustering (K-Means)</b> and <b>Classification</b> models to predict crime types and visualized patterns in Tableau.
+      </p>
+      <p>
+        <code>ML</code> <code>Scikit-learn</code> <code>Tableau</code> <code>EDA</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Tune Cloud</h4>
+      <p align="justify">
+        A music analytics platform leveraging data to track streaming trends. Developed a robust backend to handle <b>real-time data processing</b> and user behavior insights.
+      </p>
+      <p>
+        <code>Data Engineering</code> <code>Flask</code> <code>Cloud Computing</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,8 +93,7 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
 
 ### 🎓 Education
 
-As a **Computer Science student** at **Ain Shams University**, I focus on the theoretical and practical foundations of data-driven technology.
-* **B.Sc. in Computer Science** (2023 – 2027)
+* **B.Sc. in Computer Science | Ain Shams University** (2023 – 2027)
 * **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning.
 
 ---
