@@ -7,8 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgwNDc2MjgsIm5iZiI6MTc2ODA0NzMyOCwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTEwVDEyMTUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1ZjlkNDI0OTFkMGM1MzgwZTk4YzcyYTA3MDY1ZTFkYjk5YzEzNDJlMzI2NzIxYTQ0MTZkOTNjOGM4YWI5MzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hvgjcvJ_RD9_urAul7P0QWSgDVttJYhhvd2wtp9XLj4" width="200px"/>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"
+    width="140"
+  />
 </p>
+
 
 <p align="center">
   <b>Data Scientist | Machine Learning Engineer | Tech Innovator</b><br>
