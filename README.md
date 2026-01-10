@@ -2,159 +2,120 @@
   <img 
     src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"
     width="100%"
-    height="200"
+    height="220"
+    alt="Cool tech animation"
   />
 </p>
 
 <p align="center">
-  <b>Data Scientist | Machine Learning Engineer | Tech Innovator</b><br>
-  A <b>Computer Science student</b> at <b>Ain Shams University</b> (Class of 2027),<br>
-  specializing in AI, Deep Learning, and Cybersecurity Analytics.
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+IoT+and+AI+Solutions" 
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=Data+Scientist+%26+ML+Engineer;Transforming+Data+→+Impact;Deep+Learning+%26+Cybersecurity;Building+the+Future+Today"
       alt="Typing SVG"
     />
   </a>
 </p>
 
----
+<p align="center">
+  <b>Computer Science @ Ain Shams University</b> • Class of 2027<br>
+  <i>AI • Deep Learning • Cybersecurity Analytics • Generative AI</i>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/waves.svg" width="700" height="50"/>
+</div>
 
 ### 📑 Professional Summary
 
-I am a Data Scientist passionate about transforming raw data into actionable insights. With strong expertise in **Python, SQL, Machine Learning, and Tableau**, I bridge the gap between technical precision and business strategy. I specialize in analyzing complex datasets and designing predictive models that drive real-world impact.
+Passionate **Data Scientist** & **ML Engineer** turning raw data into business value and real-world impact.  
+Expert in **Python**, **SQL**, **Machine Learning**, **Deep Learning**, and **Tableau/Power BI**.
 
----
+Bridging technical depth with business understanding.
+
+### 🚀 Quick Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dracula&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dracula&hide_border=true&border_radius=12&date_format=j%20M%5B%2C%20Y%5D" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=8" width="60%" />
+</p>
 
 ### 💼 Professional Experience
 
-I have built my expertise through high-impact internships in FinTech, AI, and Data Analytics.
+- 🤖 **AI Business Analyst Intern** @ Hams.ai  
+- 🏦 **Data Science Intern** @ CIB Egypt  
+- 🧠 **Generative AI Intern** @ ITI  
+- 🌐 **IoT Intern** @ NTI  
+- 📊 **Data Analyst Intern** @ DEPI  
 
-* 🤖 **AI Business Analyst Intern @ Hams.ai**  
-  Market analysis, KPI tracking, and dashboard building.
+🌱 **Currently deep-diving into:** Deep Learning • Generative AI • MLOps • AI Infrastructure
 
-* 🏦 **Data Science Intern @ CIB Egypt**  
-  Financial data analysis, customer segmentation, and automated reporting.
+### 🔥 Featured Projects
 
-* 🧠 **Generative AI Intern @ ITI**  
-  Building ML models for predictive analytics and optimizing AI workflows.
-
-* 🌐 **IoT Intern @ NTI**  
-  Designing systems linking sensors to predictive models to optimize performance.
-
-* 📊 **Data Analyst Intern @ DEPI**  
-  Full-cycle data pipelines including Cleaning, EDA, and Statistical Modeling.
-
-🌱 **Currently learning:** Deep Learning, Generative AI, and AI Infrastructure  
-🎯 **Goals:** Build ML projects with real datasets & contribute to open-source  
-💬 **Ask me about:** Python for Data, SQL, and Machine Learning basics
-
----
-
-### 🚀 Featured Projects
-
-<table border="0">
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h4>🛡️ Cyber Attack Detection (Kaggle)</h4>
-      <p align="justify">
-        Developed an <b>Intrusion Detection System (IDS)</b> using <b>ANN</b> and <b>SafeML</b>. 
-        Analyzed <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision.
-      </p>
-      <p>
-        <code>Deep Learning</code> <code>ANN</code> <code>Cybersecurity</code> <code>Python</code>
-      </p>
+      <p>ANN-based Intrusion Detection System • CICIDS2017 & Ember-2018 datasets</p>
+      <p><code>Deep Learning</code> <code>Cybersecurity</code> <code>ANN</code> <code>SafeML</code></p>
     </td>
-
-    <td width="50%" valign="top">
+    <td width="50%">
       <h4>💳 Credit Risk Prediction</h4>
-      <p align="justify">
-        Developed predictive models (<b>Logistic Regression, XGBoost</b>) to assess credit risk for 
-        <b>20,000+ loan applicants</b>. Visualized risk factors and customer segmentation for FinTech use cases.
-      </p>
-      <p>
-        <code>ML</code> <code>XGBoost</code> <code>FinTech</code> <code>Scikit-learn</code>
-      </p>
+      <p>XGBoost + Logistic Regression • 20,000+ applicants • Risk segmentation</p>
+      <p><code>XGBoost</code> <code>FinTech</code> <code>Scikit-learn</code></p>
     </td>
   </tr>
-
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h4>📈 Job Market Intelligence</h4>
-      <p align="justify">
-        Scraped <b>1,000+ job listings</b> using <b>BeautifulSoup</b> and <b>Selenium</b>. 
-        Trained ML models to analyze in-demand skills and visualized trends using <b>Tableau</b>.
-      </p>
-      <p>
-        <code>Web Scraping</code> <code>Tableau</code> <code>Trend Analysis</code>
-      </p>
+      <p>1,000+ job listings scraped • Skill trend analysis • Tableau dashboards</p>
+      <p><code>Web Scraping</code> <code>BeautifulSoup</code> <code>Selenium</code></p>
     </td>
-
-    <td width="50%" valign="top">
+    <td width="50%">
       <h4>🕵️ Boston Crime Analysis</h4>
-      <p align="justify">
-        Built classification models to predict crime types. Applied <b>K-Means clustering</b> 
-        for pattern detection and visualized insights using <b>Tableau</b>.
-      </p>
-      <p>
-        <code>Clustering</code> <code>Classification</code> <code>EDA</code> <code>Python</code>
-      </p>
+      <p>Crime type classification • K-Means clustering • Interactive visualizations</p>
+      <p><code>Clustering</code> <code>Classification</code> <code>EDA</code></p>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=60&section=header&text=&fontSize=0" />
+</div>
 
-### 🛠️ Things I code with
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🎓 Education
-
-* **B.Sc. in Computer Science | Ain Shams University** (2023 – 2027)  
-* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning, Linear Algebra
-
----
-
-### 🏆 Innovation & Impact
-
-**Social Entrepreneur | UNESCO CIE Scholarship**
-* Co-created **Fonemo**, an interactive platform supporting children with dyslexia
-* Recognized as a **Top 3 Team** globally and officially incubated at **UNESCO**
-
----
-
-### 📬 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/omar-elemary-dataanalyst" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="mailto:omarelemary99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,pandas,numpy,scikit,postgres,mysql,git,docker,aws,gcp,linux&perline=8" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif"
-    width="100%"
-    height="80"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,figma,postman&perline=8" />
 </p>
+
+### 🎓 Education & Recognition
+
+**B.Sc. Computer Science** – Ain Shams University (2023–2027)  
+**UNESCO CIE Scholarship Winner** – Co-founder of **Fonemo** (dyslexia support platform)  
+**Top 3 globally** • Officially incubated by UNESCO
+
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-elemary-dataanalyst">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="mailto:omarelemary99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="70%" alt="Macchiato palette"/>
+  <br><br>
+  <i>Building intelligent systems with curiosity & impact</i> ✨
+</div>
