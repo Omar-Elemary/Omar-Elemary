@@ -13,7 +13,6 @@
   />
 </p>
 
-
 <p align="center">
   <b>Data Scientist | Machine Learning Engineer | Tech Innovator</b><br>
   A <b>Computer Science student</b> at <b>Ain Shams University</b> (Class of 2027),<br>
@@ -21,7 +20,12 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+IoT+and+AI+Solutions" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+IoT+and+AI+Solutions" 
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 ---
@@ -35,15 +39,25 @@ I am a Data Scientist passionate about transforming raw data into actionable ins
 ### 💼 Professional Experience
 
 I have built my expertise through high-impact internships in FinTech, AI, and Data Analytics.
-* 🤖 **AI Business Analyst Intern @ Hams.ai:** Market analysis, KPI tracking, and dashboard building.
-* 🏦 **Data Science Intern @ CIB Egypt:** Financial data analysis, customer segmentation, and automated reporting.
-* 🧠 **Generative AI Intern @ ITI:** Building ML models for predictive analytics and optimizing AI workflows.
-* 🌐 **IoT Intern @ NTI:** Designing systems linking sensors to predictive models to optimize performance.
-* 📊 **Data Analyst Intern @ DEPI:** Full-cycle data pipelines including Cleaning, EDA, and Statistical Modeling.
 
-🌱 **Currently learning:** Deep Learning, Generative AI, and AI Infrastructure.
-🎯 **Goals:** Build ML projects with real datasets & contribute to open-source.
-💬 **Ask me about:** Python for Data, SQL, and Machine Learning basics.
+* 🤖 **AI Business Analyst Intern @ Hams.ai**  
+  Market analysis, KPI tracking, and dashboard building.
+
+* 🏦 **Data Science Intern @ CIB Egypt**  
+  Financial data analysis, customer segmentation, and automated reporting.
+
+* 🧠 **Generative AI Intern @ ITI**  
+  Building ML models for predictive analytics and optimizing AI workflows.
+
+* 🌐 **IoT Intern @ NTI**  
+  Designing systems linking sensors to predictive models to optimize performance.
+
+* 📊 **Data Analyst Intern @ DEPI**  
+  Full-cycle data pipelines including Cleaning, EDA, and Statistical Modeling.
+
+🌱 **Currently learning:** Deep Learning, Generative AI, and AI Infrastructure  
+🎯 **Goals:** Build ML projects with real datasets & contribute to open-source  
+💬 **Ask me about:** Python for Data, SQL, and Machine Learning basics
 
 ---
 
@@ -54,36 +68,43 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
     <td width="50%" valign="top">
       <h4>🛡️ Cyber Attack Detection (Kaggle)</h4>
       <p align="justify">
-        Developed an <b>Intrusion Detection System (IDS)</b> using <b>ANN</b> and <b>SafeML</b>. Analyzed <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision.
+        Developed an <b>Intrusion Detection System (IDS)</b> using <b>ANN</b> and <b>SafeML</b>. 
+        Analyzed <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision.
       </p>
       <p>
         <code>Deep Learning</code> <code>ANN</code> <code>Cybersecurity</code> <code>Python</code>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h4>💳 Credit Risk Prediction</h4>
       <p align="justify">
-        Developed predictive models (<b>Logistic Regression, XGBoost</b>) to assess credit risk for <b>20,000+ loan applicants</b>. Visualized risk factors and customer segmentation for FinTech applications.
+        Developed predictive models (<b>Logistic Regression, XGBoost</b>) to assess credit risk for 
+        <b>20,000+ loan applicants</b>. Visualized risk factors and customer segmentation for FinTech use cases.
       </p>
       <p>
         <code>ML</code> <code>XGBoost</code> <code>FinTech</code> <code>Scikit-learn</code>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h4>📈 Job Market Intelligence</h4>
       <p align="justify">
-        Scraped <b>1,000+ job listings</b> using <b>BeautifulSoup</b> and <b>Selenium</b>. Trained ML models to predict in-demand skills and visualized trends using <b>Tableau</b>.
+        Scraped <b>1,000+ job listings</b> using <b>BeautifulSoup</b> and <b>Selenium</b>. 
+        Trained ML models to analyze in-demand skills and visualized trends using <b>Tableau</b>.
       </p>
       <p>
         <code>Web Scraping</code> <code>Tableau</code> <code>Trend Analysis</code>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h4>🕵️ Boston Crime Analysis</h4>
       <p align="justify">
-        Built classification models to predict crime types from the Boston dataset. Used <b>Clustering (K-Means)</b> for pattern detection and visualized statistics in <b>Tableau</b>.
+        Built classification models to predict crime types. Applied <b>K-Means clustering</b> 
+        for pattern detection and visualized insights using <b>Tableau</b>.
       </p>
       <p>
         <code>Clustering</code> <code>Classification</code> <code>EDA</code> <code>Python</code>
@@ -113,25 +134,34 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
 
 ### 🎓 Education
 
-* **B.Sc. in Computer Science | Ain Shams University** (2023 – 2027).
-* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning, Linear Algebra.
+* **B.Sc. in Computer Science | Ain Shams University** (2023 – 2027)  
+* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning, Linear Algebra
 
 ---
 
 ### 🏆 Innovation & Impact
 
 **Social Entrepreneur | UNESCO CIE Scholarship**
-* Co-created **Fonemo**, an interactive platform for children with dyslexia.
-* Recognized as a **Top 3 Team** globally and officially incubated at **UNESCO**.
+* Co-created **Fonemo**, an interactive platform supporting children with dyslexia
+* Recognized as a **Top 3 Team** globally and officially incubated at **UNESCO**
 
 ---
 
 ### 📬 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/omar-elemary-dataanalyst" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" /></a>
-<a href="mailto:omarelemary99@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" /></a>
+  <a href="https://www.linkedin.com/in/omar-elemary-dataanalyst" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:omarelemary99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="100%"/>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif"
+    width="100%"
+    height="80"
+  />
 </p>
