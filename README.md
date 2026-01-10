@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=200&section=header&text=I'm%20Omar%20Elemary&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="[https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=200&section=header&text=I'm%20Omar%20Elemary&fontSize=70&animation=fadeIn&fontAlignY=38](https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgwNDc2MjgsIm5iZiI6MTc2ODA0NzMyOCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTEwVDEyMTUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1OGE2MDhhMzY2ZDBhYTc3ZDYwZDU2OTNmY2M5ZWIyYTk3OThjOTRlYWRmYjVhOTcwOGRkNWYzMTEwN2IxOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sc6euWFxEj9Y6QxDGDJVD7u0m_sCrIvzFAP9Nx526tY)" width="100%"/>
 </p>
 
 <p align="center">
