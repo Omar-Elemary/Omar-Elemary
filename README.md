@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -21,48 +22,68 @@ I am a Data Scientist specializing in transforming raw data into actionable insi
 
 ---
 
-### 🎓 Academic Foundation
-**Ain Shams University** | *Bachelor of Science in Computer Science* | **2023 — 2027**
-* **Relevant Coursework:** Data Structures & Algorithms, Database Systems, Business Analytics, Data Mining, Machine Learning, Linear Algebra, and Statistics.
-* **Focus:** Leveraging computational theory to solve complex real-world data problems.
+### 🎓 Education
+**B.Sc. in Computer Science | Ain Shams University** *September 2023 – June 2027*
+* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning, Linear Algebra.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omar-Elemary&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Elemary&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
 
-### 💼 Branched Professional Experience
+### 💼 Professional Experience
 
-#### 🤖 **Artificial Intelligence & Machine Learning**
-* **HCIA AI Trainee | NTI-Huawei Academy** (*Nov 2025 – Present*)
-    * Specializing in Deep Learning and AI infrastructure via the Egyptian Talents Academy.
-* **Generative AI Intern | ITI** (*Aug 2025 – Sep 2025*)
-    * Engineered ML models for predictive analytics, increasing workflow efficiency by **30%**.
-    * Optimized large-scale data processing for GenAI applications.
+**AI Business Analyst Intern | Hams.ai** *Aug 2025 – Nov 2025*
+* Conducted market analysis and KPI tracking to support business decisions.
+* Developed dynamic dashboards using Python and Power BI to visualize performance metrics.
 
-#### 📈 **Data Science & FinTech**
-* **AI Business Analyst Intern | Hams.ai** (*Aug 2025 – Nov 2025*)
-    * Quantified market trends and built KPI tracking systems using Python and Power BI.
-* **Data Science Intern | CIB Egypt** (*Jul 2025 – Aug 2025*)
-    * Executed financial data cleaning, customer segmentation, and automated reporting in Tableau.
-* **Data Analyst Intern | DEPI (MCIT)** (*Jun 2024 – Jan 2025*)
-    * Mastered the full-cycle data pipeline: Cleaning → EDA → Statistical Modeling → Visualization.
+**Data Science Intern | CIB Bank** *Jul 2025 – Aug 2025*
+* Performed deep financial data analysis and customer segmentation.
+* Automated reporting pipelines using Python and Tableau to streamline data insights.
 
-#### 🌐 **Internet of Things (IoT)**
-* **IoT Intern | National Telecommunication Institute (NTI)** (*Jul 2025 – Aug 2025*)
-    * Developed end-to-end IoT frameworks linking sensors to cloud-based predictive models.
+**AI Intern | Information Technology Institute (ITI)** *Aug 2025 – Sep 2025*
+* Prepared and analyzed high-volume datasets for AI workflows and reporting.
+* Built ML models for predictive analytics, increasing workflow efficiency by 30%.
+
+**IoT Intern | National Telecommunication Institute (NTI)** *Jul 2025 – Aug 2025*
+* Monitored IoT datasets and implemented predictive models to analyze sensor data.
+* Created performance dashboards using Python and Power BI to optimize system performance.
+
+**Data Analyst Intern | DEPI MCIT Program** *Jun 2024 – Aug 2024*
+* Conducted full-cycle data analysis: cleaning, EDA, and SQL querying.
+* Built ML pipelines for exploratory analysis and dashboard reporting using Python and Tableau.
 
 ---
 
-### 🏆 Innovation & Leadership
+### 🏆 Innovation & Entrepreneurship
 
-* **Social Entrepreneur | UNESCO CIE Scholarship**
-    * Co-created **Fonemo** (Dyslexia support platform).
-    * Ranked **Top 3 Team** globally and successfully incubated at **UNESCO**.
-* **Head of Data Management | Youth Leading Youth (YLY)**
-    * Led a team of **100+ organizers** and automated HR data workflows.
+**Social Entrepreneur | UNESCO CIE Scholarship** *April 2025 – July 2025*
+* **Project Fonemo:** Co-created an interactive Arabic platform designed to support children with dyslexia through gamified learning.
+* **Recognition:** Selected as a **Top 3 Team** in the final pitch; project is now officially incubated at **UNESCO**.
+* **Competencies:** Design Thinking, Business Model Canvas, Advocacy, and Pitching.
+
+---
+
+### 🛠️ Technical Skills
+* **Programming:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, BeautifulSoup, Selenium), SQL.
+* **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn.
+* **Machine Learning:** Regression, Classification, Clustering, Feature Engineering, Model Evaluation.
+* **Methods:** Data Cleaning, EDA, Predictive Modeling, Hypothesis Testing, A/B Testing.
+* **Tools:** Git, Azure, Docker, MLflow, Microsoft Excel.
+
+---
+
+### 📬 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/omar-elemary-dataanalyst" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:omarelemary99@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
+</p>
