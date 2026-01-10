@@ -1,11 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Omar%20Elemary&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%"/>
+# Omar Elemary
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
 ### 🚀 <samp>Data Scientist | Machine Learning Engineer | Tech Innovator</samp>
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=500&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+IoT+and+AI+Solutions;Class+of+2027+@+Ain+Shams+University" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&width=500&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+IoT+and+AI+Solutions;Class+of+2027+@+Ain+Shams+University" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -55,24 +61,9 @@ I am a Data Scientist specializing in transforming raw data into actionable insi
 ---
 
 ### 🛠️ Technical Ecosystem
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-* **Analysis Methods:** Regression, Classification, Clustering, Feature Engineering, Hypothesis Testing, A/B Testing.
+* **Machine Learning:** Regression, Classification, Clustering, Feature Engineering, Hypothesis Testing, A/B Testing.
 * **Web Scraping:** BeautifulSoup, Selenium, Scrapy.
-* **Workflow Tools:** MLflow, Microsoft Excel, Jupyter Notebooks.
+* **Workflow & Tools:** Git, Docker, Azure, MLflow, Microsoft Excel.
 
 ---
 
