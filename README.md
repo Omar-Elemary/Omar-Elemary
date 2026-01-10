@@ -55,15 +55,15 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
       <h4>🛡️ Cyber Attack Detection (Kaggle)</h4>
       <p align="justify">
-        Developed an <b>Intrusion Detection System (IDS)</b> using <b>ANN</b> and <b>SafeML</b>. 
-        Analyzed <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision.
+        Built an <b>Intrusion Detection System (IDS)</b> using <b>ANN</b> models.
+        Worked with <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious traffic.
       </p>
       <p>
         <code>Deep Learning</code> <code>ANN</code> <code>Cybersecurity</code> <code>Python</code>
@@ -73,11 +73,11 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
     <td width="50%" valign="top">
       <h4>💳 Credit Risk Prediction</h4>
       <p align="justify">
-        Developed predictive models (<b>Logistic Regression, XGBoost</b>) to assess credit risk for 
-        <b>20,000+ loan applicants</b>. Visualized risk factors and customer segmentation for FinTech use cases.
+        Developed ML models (<b>Logistic Regression, XGBoost</b>) for credit risk assessment
+        on <b>20,000+</b> loan applicants with business-oriented insights.
       </p>
       <p>
-        <code>ML</code> <code>XGBoost</code> <code>FinTech</code> <code>Scikit-learn</code>
+        <code>Machine Learning</code> <code>XGBoost</code> <code>FinTech</code>
       </p>
     </td>
   </tr>
@@ -86,22 +86,22 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
     <td width="50%" valign="top">
       <h4>📈 Job Market Intelligence</h4>
       <p align="justify">
-        Scraped <b>1,000+ job listings</b> using <b>BeautifulSoup</b> and <b>Selenium</b>. 
-        Trained ML models to analyze in-demand skills and visualized trends using <b>Tableau</b>.
+        Scraped <b>1,000+</b> job listings using <b>BeautifulSoup</b> & <b>Selenium</b>.
+        Analyzed skill demand and visualized trends using <b>Tableau</b>.
       </p>
       <p>
-        <code>Web Scraping</code> <code>Tableau</code> <code>Trend Analysis</code>
+        <code>Web Scraping</code> <code>EDA</code> <code>Tableau</code>
       </p>
     </td>
 
     <td width="50%" valign="top">
       <h4>🕵️ Boston Crime Analysis</h4>
       <p align="justify">
-        Built classification models to predict crime types. Applied <b>K-Means clustering</b> 
-        for pattern detection and visualized insights using <b>Tableau</b>.
+        Applied <b>classification</b> and <b>K-Means clustering</b> to analyze crime patterns.
+        Delivered insights through interactive <b>Tableau dashboards</b>.
       </p>
       <p>
-        <code>Clustering</code> <code>Classification</code> <code>EDA</code> <code>Python</code>
+        <code>Clustering</code> <code>Classification</code> <code>Python</code>
       </p>
     </td>
   </tr>
