@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=200&section=header&text=Omar%20Elemary&fontSize=65&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=200&section=header&text=I'm%20Omar%20Elemary&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
-
 
 <p align="center">
   <b>Data Scientist | Machine Learning Engineer | Tech Innovator</b><br>
-  A <b>Computer Science student</b> at <b>Ain Shams University</b> (Class of 2027),<br>
-  specializing in AI, Deep Learning, and Cybersecurity Analytics.
+  [cite_start]A <b>Computer Science student</b> at <b>Ain Shams University</b> (Class of 2027)[cite: 80, 90],<br>
+  [cite_start]specializing in AI, Deep Learning, and Cybersecurity Analytics[cite: 13, 14].
 </p>
 
 <p align="center">
@@ -17,21 +16,22 @@
 
 ### 📑 Professional Summary
 
-I am a Data Scientist passionate about transforming raw data into actionable insights. With strong expertise in **Python, SQL, Machine Learning, and Tableau**, I bridge the gap between technical precision and business strategy. I specialize in analyzing complex datasets and designing predictive models that drive real-world impact.
+[cite_start]I am a Data Scientist passionate about transforming raw data into actionable insights[cite: 16, 138]. [cite_start]With strong expertise in **Python, SQL, Machine Learning, and Tableau**, I bridge the gap between technical precision and business strategy[cite: 17, 139]. [cite_start]I specialize in analyzing complex datasets and designing predictive models that drive real-world impact[cite: 18, 88].
 
 ---
 
 ### 💼 Professional Experience
 
-* 🤖 **AI Business Analyst Intern @ Hams.ai:** Market analysis and KPI tracking using Python and Power BI.
-* 🏦 **Data Science Intern @ CIB Egypt:** Financial data analysis, customer segmentation, and automated reporting.
-* 🧠 **Generative AI Intern @ ITI:** Building ML models for predictive analytics and optimizing AI workflows.
-* 🌐 **IoT Intern @ NTI:** Designing systems linking sensors to predictive models to optimize performance.
-* 📊 **Data Analyst Intern @ DEPI:** Full-cycle data pipelines including Cleaning, EDA, and Statistical Modeling.
+[cite_start]I have built my expertise through high-impact internships in FinTech, AI, and Data Analytics[cite: 19, 88].
+* [cite_start]🤖 **AI Business Analyst Intern @ Hams.ai:** Market analysis, KPI tracking, and dashboard building[cite: 99, 100].
+* [cite_start]🏦 **Data Science Intern @ CIB Egypt:** Financial data analysis, customer segmentation, and automated reporting[cite: 101, 104, 152].
+* [cite_start]🧠 **Generative AI Intern @ ITI:** Building ML models for predictive analytics and optimizing AI workflows[cite: 105, 106, 107].
+* [cite_start]🌐 **IoT Intern @ NTI:** Designing systems linking sensors to predictive models to optimize performance[cite: 109, 111].
+* [cite_start]📊 **Data Analyst Intern @ DEPI:** Full-cycle data pipelines including Cleaning, EDA, and Statistical Modeling[cite: 112, 114, 162].
 
-🌱 **Currently learning:** Deep Learning, Generative AI, and AI Infrastructure.
-🎯 **Goals:** Build ML projects with real datasets & contribute to open-source.
-💬 **Ask me about:** Python for Data, SQL, and Machine Learning basics.
+[cite_start]🌱 **Currently learning:** Deep Learning, Generative AI, and AI Infrastructure[cite: 10, 11, 24].
+[cite_start]🎯 **Goals:** Build ML projects with real datasets & contribute to open-source[cite: 88, 115].
+[cite_start]💬 **Ask me about:** Python for Data, SQL, and Machine Learning basics[cite: 93, 144].
 
 ---
 
@@ -40,41 +40,41 @@ I am a Data Scientist passionate about transforming raw data into actionable ins
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ Cyber Attack Detection</h4>
+      <h4>🛡️ Cyber Attack Detection (Kaggle)</h4>
       <p align="justify">
-        Developed an <b>Intrusion Detection System (IDS)</b> using <b>ANN</b>. Analyzed the <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision using SafeML frameworks.
+        Developed an <b>Intrusion Detection System (IDS)</b> using <b>ANN</b> and <b>SafeML</b>[cite: 120, 121]. Analyzed <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision[cite: 120, 121].
       </p>
       <p>
-        <code>Deep Learning</code> <code>ANN</code> <code>Kaggle</code> <code>Security</code>
+        <code>Deep Learning</code> <code>ANN</code> <code>Cybersecurity</code> <code>Python</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Boston Crime Analysis</h4>
+      <h4>💳 Credit Risk Prediction</h4>
       <p align="justify">
-        A deep dive into 300,000+ crime records to identify high-risk zones. Applied <b>Clustering (K-Means)</b> and <b>Classification</b> models to predict crime types and visualized patterns in Tableau.
+        Developed predictive models (<b>Logistic Regression, XGBoost</b>) to assess credit risk for <b>20,000+ loan applicants</b>[cite: 116, 117]. Visualized risk factors and customer segmentation for FinTech applications[cite: 117].
       </p>
       <p>
-        <code>ML</code> <code>Scikit-learn</code> <code>Tableau</code> <code>EDA</code>
+        <code>ML</code> <code>XGBoost</code> <code>FinTech</code> <code>Scikit-learn</code>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💳 Credit Risk & FinTech Analytics</h4>
+      <h4>📈 Job Market Intelligence</h4>
       <p align="justify">
-        Built a predictive engine to assess creditworthiness for 20,000+ applicants. Designed a <b>Tableau Dashboard</b> to visualize default risks, debt-to-income ratios, and customer segmentation.
+        Scraped <b>1,000+ job listings</b> using <b>BeautifulSoup</b> and <b>Selenium</b>[cite: 118, 119]. Trained ML models to predict in-demand skills and visualized trends using <b>Tableau</b>[cite: 119, 171].
       </p>
       <p>
-        <code>FinTech</code> <code>XGBoost</code> <code>Tableau</code> <code>SQL</code>
+        <code>Web Scraping</code> <code>Tableau</code> <code>Trend Analysis</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📈 Job Market Intelligence Scraper</h4>
+      <h4>🕵️ Boston Crime Analysis</h4>
       <p align="justify">
-        Scraped 1,000+ job listings using <b>BeautifulSoup</b> and <b>Selenium</b>. Created a <b>Power BI</b> report to visualize trend analysis for in-demand tech skills and salary benchmarks.
+        Built classification models to predict crime types from the Boston dataset[cite: 121]. Used <b>Clustering (K-Means)</b> for pattern detection and visualized statistics in <b>Tableau</b>[cite: 73, 75].
       </p>
       <p>
-        <code>Scraping</code> <code>Power BI</code> <code>NLP</code> <code>Automation</code>
+        <code>Clustering</code> <code>Classification</code> <code>EDA</code> <code>Python</code>
       </p>
     </td>
   </tr>
@@ -101,16 +101,16 @@ I am a Data Scientist passionate about transforming raw data into actionable ins
 
 ### 🎓 Education
 
-* **B.Sc. in Computer Science | Ain Shams University** (2023 – 2027)
-* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning.
+* **B.Sc. in Computer Science | [cite_start]Ain Shams University** (2023 – 2027)[cite: 80, 90, 141].
+* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning, Linear Algebra[cite: 91, 142].
 
 ---
 
 ### 🏆 Innovation & Impact
 
-**Social Entrepreneur | UNESCO CIE Scholarship**
-* Co-created **Fonemo**, an interactive platform for children with dyslexia.
-* Recognized as a **Top 3 Team** globally and officially incubated at **UNESCO**.
+**Social Entrepreneur | [cite_start]UNESCO CIE Scholarship** [cite: 128, 178]
+* Co-created **Fonemo**, an interactive platform for children with dyslexia[cite: 56, 57].
+* [cite_start]Recognized as a **Top 3 Team** globally and officially incubated at **UNESCO**[cite: 58].
 
 ---
 
@@ -121,6 +121,5 @@ I am a Data Scientist passionate about transforming raw data into actionable ins
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
 </p>
-
