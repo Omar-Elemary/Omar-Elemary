@@ -1,15 +1,9 @@
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"
-    width="100%"
-    height="180"
-  />
-</p>
 
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"
-    width="140"
+    width="100%"
+    height="180"
   />
 </p>
 
@@ -158,10 +152,3 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
   </a>
 </p>
 
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif"
-    width="100%"
-    height="80"
-  />
-</p>
