@@ -1,18 +1,11 @@
-# Omar Elemary
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Omar%20Elemary&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%"/>
+</p>
+
 ### 🚀 <samp>Data Scientist | Machine Learning Engineer | Tech Innovator</samp>
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+IoT+and+AI+Solutions;Class+of+2027+@+Ain+Shams+University" alt="Typing SVG" /></a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=500&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+IoT+and+AI+Solutions;Class+of+2027+@+Ain+Shams+University" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -25,14 +18,6 @@ I am a Data Scientist specializing in transforming raw data into actionable insi
 ### 🎓 Education
 **B.Sc. in Computer Science | Ain Shams University** *September 2023 – June 2027*
 * **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning, Linear Algebra.
-
----
-
-### 📊 GitHub Activity
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omar-Elemary&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Elemary&layout=compact&langs_count=7&theme=radical" />
-</p>
 
 ---
 
@@ -69,19 +54,32 @@ I am a Data Scientist specializing in transforming raw data into actionable insi
 
 ---
 
-### 🛠️ Technical Skills
-* **Programming:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, BeautifulSoup, Selenium), SQL.
-* **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn.
-* **Machine Learning:** Regression, Classification, Clustering, Feature Engineering, Model Evaluation.
-* **Methods:** Data Cleaning, EDA, Predictive Modeling, Hypothesis Testing, A/B Testing.
-* **Tools:** Git, Azure, Docker, MLflow, Microsoft Excel.
+### 🛠️ Technical Ecosystem
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+* **Analysis Methods:** Regression, Classification, Clustering, Feature Engineering, Hypothesis Testing, A/B Testing.
+* **Web Scraping:** BeautifulSoup, Selenium, Scrapy.
+* **Workflow Tools:** MLflow, Microsoft Excel, Jupyter Notebooks.
 
 ---
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/omar-elemary-dataanalyst" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:omarelemary99@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/omar-elemary-dataanalyst" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" /></a>
+<a href="mailto:omarelemary99@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" /></a>
 </p>
 
 <p align="center">
