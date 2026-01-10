@@ -10,7 +10,7 @@
 <p align="center">
   <b>Data Scientist | Machine Learning Engineer | Tech Innovator</b><br>
   A <b>Computer Science student</b> at <b>Ain Shams University</b> (Class of 2027),<br>
-  specializing in AI, Deep Learning, and Cybersecurity Analytics.
+  specializing in AI, Deep Learning, and Business Intelligence.
 </p>
 
 <p align="center">
