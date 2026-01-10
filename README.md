@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rounded&color=auto&height=180&text=Building%20with%20Data&fontSize=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=200&section=header&text=Omar%20Elemary&fontSize=65&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
+
 
 <p align="center">
   <b>Data Scientist | Machine Learning Engineer | Tech Innovator</b><br>
@@ -120,5 +121,6 @@ I am a Data Scientist passionate about transforming raw data into actionable ins
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=90&section=footer"/>
 </p>
+
