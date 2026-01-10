@@ -14,18 +14,24 @@
 
 ---
 
-### 📖 About Me
+### 📑 Professional Summary
 
-My passion for computer science lies in the intersection of technical precision and human impact. I specialize in analyzing complex datasets and designing predictive models that solve real-world problems.
-* 🌱 **Currently learning:** Deep Learning, Generative AI (ITI), and AI infrastructure (NTI-Huawei).
-* 🎯 **Goals:** Build high-impact ML solutions and bridge the gap between business strategy and data science.
-* 💬 **Ask me about:** Python, SQL, Machine Learning, and Social Entrepreneurship.
+I am a Data Scientist passionate about transforming raw data into actionable insights. With strong expertise in **Python, SQL, Machine Learning, and Tableau**, I bridge the gap between technical precision and business strategy. I specialize in analyzing complex datasets and designing predictive models that drive real-world impact and practical solutions.
 
 ---
 
-### 🎓 Education
-**B.Sc. in Computer Science | Ain Shams University** *2023 – 2027*
-* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning.
+### 💼 Professional Experience
+
+I have built my expertise through high-impact internships in FinTech, AI, and Data Analytics, focusing on turning data into measurable business value.
+* 🤖 **AI Business Analyst Intern @ Hams.ai:** Market analysis and KPI tracking using Python and Power BI.
+* 🏦 **Data Science Intern @ CIB Egypt:** Financial data analysis, customer segmentation, and automated reporting.
+* 🧠 **Generative AI Intern @ ITI:** Building ML models for predictive analytics and optimizing AI workflows.
+* 🌐 **IoT Intern @ NTI:** Designing systems linking sensors to predictive models to optimize performance.
+* 📊 **Data Analyst Intern @ DEPI:** Full-cycle data pipelines including Cleaning, EDA, and Statistical Modeling.
+
+🌱 **Currently learning:** Deep Learning, Generative AI, and AI Infrastructure.
+🎯 **Goals:** Build ML projects with real datasets & contribute to open-source.
+💬 **Ask me about:** Python for Data, SQL, and Machine Learning basics.
 
 ---
 
@@ -46,13 +52,11 @@ My passion for computer science lies in the intersection of technical precision 
 
 ---
 
-### 💼 Professional Experience
+### 🎓 Education
 
-* **AI Business Analyst Intern** @ *Hams.ai* (Aug 2025 – Nov 2025)
-* **Data Science Intern** @ *CIB Bank* (Jul 2025 – Aug 2025)
-* **Generative AI Intern** @ *Information Technology Institute (ITI)* (Aug 2025 – Sep 2025)
-* **IoT Intern** @ *National Telecommunication Institute (NTI)* (Jul 2025 – Aug 2025)
-* **Data Analyst Intern** @ *DEPI MCIT Program* (Jun 2024 – Aug 2024)
+As a **Computer Science student** at **Ain Shams University**, I focus on the theoretical and practical foundations of data-driven technology.
+* **B.Sc. in Computer Science** (2023 – 2027)
+* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning.
 
 ---
 
@@ -61,7 +65,6 @@ My passion for computer science lies in the intersection of technical precision 
 **Social Entrepreneur | UNESCO CIE Scholarship**
 * Co-created **Fonemo**, an interactive platform for children with dyslexia.
 * Recognized as a **Top 3 Team** globally and officially incubated at **UNESCO**.
-* Focus: Design Thinking, Business Modeling, and Social Impact.
 
 ---
 
