@@ -64,3 +64,66 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>📈 Job Market Intelligence</h4>
+      <p align="justify">
+        Scraped <b>1,000+ job listings</b> using <b>BeautifulSoup</b> and <b>Selenium</b>. Trained ML models to predict in-demand skills and visualized trends using <b>Tableau</b>.
+      </p>
+      <p>
+        <code>Web Scraping</code> <code>Tableau</code> <code>Trend Analysis</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🕵️ Boston Crime Analysis</h4>
+      <p align="justify">
+        Built classification models to predict crime types from the Boston dataset. Used <b>Clustering (K-Means)</b> for pattern detection and visualized statistics in <b>Tableau</b>.
+      </p>
+      <p>
+        <code>Clustering</code> <code>Classification</code> <code>EDA</code> <code>Python</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Things I code with
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🎓 Education
+
+* **B.Sc. in Computer Science | Ain Shams University** (2023 – 2027).
+* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning, Linear Algebra.
+
+---
+
+### 🏆 Innovation & Impact
+
+**Social Entrepreneur | UNESCO CIE Scholarship**
+* Co-created **Fonemo**, an interactive platform for children with dyslexia.
+* Recognized as a **Top 3 Team** globally and officially incubated at **UNESCO**.
+
+---
+
+### 📬 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/omar-elemary-dataanalyst" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" /></a>
+<a href="mailto:omarelemary99@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" /></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="100%"/>
+</p>
