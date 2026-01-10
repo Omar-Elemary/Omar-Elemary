@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=200&section=header&text=I'm%20Omar%20Elemary&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%"/>
-</p>
 
 <p align="center">
   <b>Data Scientist | Machine Learning Engineer | Tech Innovator</b><br>
@@ -120,6 +117,4 @@
 <a href="mailto:omarelemary99@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
-</p>
+
