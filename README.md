@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=200&section=header&text=I'm%20Omar%20Elemary&fontSize=70&animation=fadeIn&fontAlignY=38](https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgwNDc2MjgsIm5iZiI6MTc2ODA0NzMyOCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTEwVDEyMTUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1OGE2MDhhMzY2ZDBhYTc3ZDYwZDU2OTNmY2M5ZWIyYTk3OThjOTRlYWRmYjVhOTcwOGRkNWYzMTEwN2IxOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sc6euWFxEj9Y6QxDGDJVD7u0m_sCrIvzFAP9Nx526tY)" width="100%"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgwNDc2MjgsIm5iZiI6MTc2ODA0NzMyOCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTEwVDEyMTUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1OGE2MDhhMzY2ZDBhYTc3ZDYwZDU2OTNmY2M5ZWIyYTk3OThjOTRlYWRmYjVhOTcwOGRkNWYzMTEwN2IxOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sc6euWFxEj9Y6QxDGDJVD7u0m_sCrIvzFAP9Nx526tY" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgwNDc2MjgsIm5iZiI6MTc2ODA0NzMyOCwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTEwVDEyMTUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1ZjlkNDI0OTFkMGM1MzgwZTk4YzcyYTA3MDY1ZTFkYjk5YzEzNDJlMzI2NzIxYTQ0MTZkOTNjOGM4YWI5MzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hvgjcvJ_RD9_urAul7P0QWSgDVttJYhhvd2wtp9XLj4" width="200px"/>
 </p>
 
 <p align="center">
@@ -40,7 +44,7 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ Cyber Attack Detection</h4>
+      <h4>🛡️ Cyber Attack Detection (Kaggle)</h4>
       <p align="justify">
         Developed an <b>Intrusion Detection System (IDS)</b> using <b>ANN</b> and <b>SafeML</b>. Analyzed <b>CICIDS2017</b> and <b>Ember-2018</b> datasets to detect malicious threats with high precision.
       </p>
@@ -60,66 +64,3 @@ I have built my expertise through high-impact internships in FinTech, AI, and Da
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📈 Job Market Intelligence</h4>
-      <p align="justify">
-        Scraped <b>1,000+ job listings</b> using <b>BeautifulSoup</b> and <b>Selenium</b>. Trained ML models to predict in-demand skills and visualized trends using <b>Tableau</b>.
-      </p>
-      <p>
-        <code>Web Scraping</code> <code>Tableau</code> <code>Trend Analysis</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🕵️ Boston Crime Analysis</h4>
-      <p align="justify">
-        Built classification models to predict crime types from the Boston dataset. Used <b>Clustering (K-Means)</b> for pattern detection and visualized statistics in <b>Tableau</b>.
-      </p>
-      <p>
-        <code>Clustering</code> <code>Classification</code> <code>EDA</code> <code>Python</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Things I code with
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🎓 Education
-
-* **B.Sc. in Computer Science | Ain Shams University** (2023 – 2027).
-* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning, Linear Algebra.
-
----
-
-### 🏆 Innovation & Impact
-
-**Social Entrepreneur | UNESCO CIE Scholarship**
-* Co-created **Fonemo**, an interactive platform for children with dyslexia.
-* Recognized as a **Top 3 Team** globally and officially incubated at **UNESCO**.
-
----
-
-### 📬 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/omar-elemary-dataanalyst" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" /></a>
-<a href="mailto:omarelemary99@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
-</p>
