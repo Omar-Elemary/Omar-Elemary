@@ -163,7 +163,5 @@ I am a Data Scientist & Machine Learning Engineer passionate about transforming 
   <a href="mailto:omarelemary99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
-  <a href="https://github.com/Omar-Elemary" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-  </a>
+  
 </p>
