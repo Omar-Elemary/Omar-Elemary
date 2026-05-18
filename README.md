@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <b>Data Scientist | Machine Learning Engineer | AI & Tech Innovator</b><br>
+  <b>Data Scientist | AI Engineer |  Tech Innovator</b><br>
   A <b>Computer Science student</b> at <b>Ain Shams University</b> (Class of 2027),<br>
-  specializing in AI, Deep Learning, and Business Intelligence.
+  specializing in AI, Deep Learning, Software and Business Intelligence.
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+IoT+and+AI+Solutions" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+Software+and+AI+Solutions" 
       alt="Typing SVG"
     />
   </a>
@@ -25,7 +25,7 @@
 
 ### 📑 Professional Summary
 
-I am a Data Scientist & Machine Learning Engineer passionate about transforming raw data into actionable insights. With strong expertise in **Python, SQL, Machine Learning, Deep Learning, and Tableau/Power BI**, I bridge technical precision with business strategy. I specialize in building predictive models, AI solutions, and scalable ML pipelines that drive measurable impact.  
+I am a Data Scientist & AI Engineer passionate about transforming raw data into actionable insights. With strong expertise in **Python, SQL, Machine Learning, Deep Learning, and Tableau/Power BI**, I bridge technical precision with business strategy. I specialize in building predictive models, AI solutions, and scalable ML pipelines that drive measurable impact.  
 
 ---
 
@@ -122,7 +122,7 @@ I am a Data Scientist & Machine Learning Engineer passionate about transforming 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ AI & Data Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -133,8 +133,35 @@ I am a Data Scientist & Machine Learning Engineer passionate about transforming 
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</p>
+
+### 💻 Software Development
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 </p>
 
 ---
@@ -151,6 +178,7 @@ I am a Data Scientist & Machine Learning Engineer passionate about transforming 
 **Hackathons & Scholarships**  
 * Ranked Top 5 worldwide in **HERE TECH Geospatial AI Hackathon (2026)**  
 * Co-created **Fonemo**, an interactive platform for children with dyslexia, recognized as **Top 3 globally** and incubated at **UNESCO CIE**  
+* Participated in **AWS x Bundesliga Challenge**, building AI/data-driven solutions for sports analytics and fan engagement
 
 ---
 
