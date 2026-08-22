@@ -1,195 +1,166 @@
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"
-    width="100%"
-    height="200px"
-  />
-</p>
+<h1 align="center">Omar Elemary</h1>
 
 <p align="center">
-  <b>Data Scientist | AI Engineer |  Tech Innovator</b><br>
-  A <b>Computer Science student</b> at <b>Ain Shams University</b> (Class of 2027),<br>
-  specializing in AI, Deep Learning, Software and Business Intelligence.
+  <strong>Agentic AI Engineer & Applied Data Scientist</strong><br>
+  Computer Science undergraduate at Ain Shams University · Cairo, Egypt
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Transforming+Data+into+Insights;Building+Predictive+ML+Pipelines;Innovating+Software+and+AI+Solutions" 
-      alt="Typing SVG"
-    />
-  </a>
+  I build agentic and retrieval-augmented AI systems that plan, use tools,
+  retrieve evidence, and turn complex workflows into reliable products.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-elemaryy/">LinkedIn</a>
+  ·
+  <a href="mailto:omarelemary99@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/Omar-Elemary?tab=repositories">Projects</a>
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-Applied_AI-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-AI_APIs-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Agentic_Systems-1C3C3C?style=flat-square">
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-Grounded_AI-6C4AB6?style=flat-square">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-Delivery-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+
+<p align="center">
+  <a href="#agentic-ai-and-rag">Agentic AI & RAG</a>
+  ·
+  <a href="#what-i-build">What I build</a>
+  ·
+  <a href="#selected-projects">Projects</a>
+  ·
+  <a href="#technical-stack">Technical stack</a>
+  ·
+  <a href="#education">Education</a>
+  ·
+  <a href="#leadership">Leadership</a>
 </p>
 
 ---
 
-### 📑 Professional Summary
+> **From intent to evidence to action.** I design AI workflows that reason within clear boundaries, retrieve the right context, use tools, and produce outputs people can trust.
 
-I am a Data Scientist & AI Engineer passionate about transforming raw data into actionable insights. With strong expertise in **Python, SQL, Machine Learning, Deep Learning, and Tableau/Power BI**, I bridge technical precision with business strategy. I specialize in building predictive models, AI solutions, and scalable ML pipelines that drive measurable impact.  
+## Agentic AI and RAG
 
----
+My primary direction is building AI systems that go beyond a single prompt:
 
-### 💼 Professional Experience
-
-* 🤖 **AI Business Analyst Intern @ Hams.ai**  
-  Market analysis, KPI tracking, and building dashboards using Python & Power BI.
-
-* 🏦 **Data Science Intern @ CIB Egypt**  
-  Financial data analysis, customer segmentation, and automated reporting.
-
-* 🧠 **Generative AI Intern @ ITI**  
-  Built ML models for predictive analytics, optimized AI workflows, improving efficiency by **30\%**.
-
-* 🌐 **IoT Intern @ NTI**  
-  Designed systems linking IoT sensor data to predictive models to optimize performance.
-
-* 📊 **Data Analyst Intern @ DEPI MCIT Program**  
-  End-to-end data pipelines including cleaning, EDA, feature engineering, and dashboard reporting.
-
-🌱 **Currently learning:** Generative AI, Reinforcement Learning, and AI Infrastructure  
-🎯 **Goals:** Build AI products and contribute to open-source ML projects  
-💬 **Ask me about:** Python for Data, Machine Learning, Deep Learning, and AI systems
-
----
-
-### 🚀 Featured Projects
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Omar-Elemary/-HCIA-AI-NTI-Huawei-Graduation-Project-Network-Cyberattack-Ai-intrusion-Detector">Network Cyberattack AI Intrusion Detector</a></h4>
-      <p>
-        Developed an <b>Intrusion Detection System (IDS)</b> using <b>Deep Learning</b>.  
-        Analyzed <b>CICIDS2017</b> dataset with SMOTE for class imbalance achieving high precision.
-      </p>
-      <p>
-        <code>Deep Learning</code> <code>ANN</code> <code>Cybersecurity</code> <code>Python</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌍 <a href="https://github.com/Omar-Elemary/Deep-learning-EuroSat-Land-Use-Classification">EuroSat Land Use Classification – Deep Learning</a></h4>
-      <p>
-        Satellite image classification using <b>ResNet50</b> transfer learning, deployed with <b>TensorFlow</b> & <b>Streamlit</b>.
-      </p>
-      <p>
-        <code>Computer Vision</code> <code>TensorFlow</code> <code>ResNet50</code> <code>Streamlit</code>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💳 <a href="https://github.com/Omar-Elemary/Credit-Risk-Prediction">Credit Risk Prediction – ML Pipeline</a></h4>
-      <p>
-        Built predictive models (<b>Logistic Regression, XGBoost</b>) for 20,000+ loan applicants.  
-        Included EDA, feature engineering, classifier comparison, and cross-validation.
-      </p>
-      <p>
-        <code>Machine Learning</code> <code>Scikit-learn</code> <code>FinTech</code> <code>XGBoost</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 Job Market Intelligence</h4>
-      <p>
-        Scraped 1,000+ job listings using <b>BeautifulSoup</b> and <b>Selenium</b>.  
-        Trained ML models to analyze in-demand skills and visualize trends via Tableau.
-      </p>
-      <p>
-        <code>Web Scraping</code> <code>Tableau</code> <code>Trend Analysis</code>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🕵️ Boston Crime Analysis</h4>
-      <p>
-        Built classification and clustering models to predict crime types.  
-        Visualized insights using Tableau for exploratory pattern detection.
-      </p>
-      <p>
-        <code>Classification</code> <code>Clustering</code> <code>EDA</code> <code>Python</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌱 Other AI & Data Projects</h4>
-      <p>
-        IoT optimization, sentiment analysis, and KPI dashboards for internal & open-source datasets.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ AI & Data Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-
+<p align="center">
+  <code>User intent → Plan → Retrieve & use tools → Ground in evidence → Validate → Act</code>
 </p>
 
-### 💻 Software Development
+| Focus | How I approach it |
+|---|---|
+| **Agent orchestration** | Specialized agents, explicit state, dependency-aware execution, bounded loops, retries, and human confirmation gates |
+| **Retrieval-augmented generation** | Retrieval workflows, context engineering, evidence grounding, source-aware outputs, and reusable knowledge boundaries |
+| **Tool-using AI** | Typed tool calls, structured inputs and outputs, API integration, and clear separation between reasoning and execution |
+| **Reliable AI delivery** | Pydantic validation, evaluation, observability, latency and cost awareness, failure handling, and testable fallbacks |
 
-<p align="left">
+## What I build
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  
+- **Agentic AI systems** with specialized agents, structured outputs, bounded workflows, tool use, and evidence-linked reporting.
+- **RAG workflows** that connect LLMs to relevant knowledge and keep generated answers grounded in retrieved context.
+- **Machine learning products** across cybersecurity, credit risk, computer vision, and business analytics.
+- **Python backends and AI APIs** using FastAPI, Pydantic, Docker, and testable service boundaries.
+- **Product prototypes** that connect AI capabilities to usable web and mobile experiences.
+
+I care about reproducibility, honest evaluation, clear system boundaries, and building software that people can actually use.
+
+## Selected projects
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [**B2D — Business to Development**](https://github.com/Omar-Elemary/B2D-agentic-ai) | A multi-agent system that turns a business idea into validated requirements, architecture, database, API, and DevOps artifacts. Includes structured schemas, bounded review, telemetry, persistence, SSE progress, and hermetic tests. | Python, FastAPI, Pydantic, Docker, SQLite, LLM APIs |
+| [**Argus — Agentic Blockchain Intelligence**](https://github.com/Omar-Elemary/Argus) | A read-only investigation pipeline that retrieves Ethereum data, analyzes wallet activity, and produces cautious reports whose findings reference concrete evidence records. | Python, LangGraph, Web3.py, FastAPI, pytest |
+| [**Network Cyberattack Intrusion Detector**](https://github.com/Omar-Elemary/-HCIA-AI-NTI-Huawei-Graduation-Project-Network-Cyberattack-Ai-intrusion-Detector) | A deep-learning IDS for CICIDS2017 with class-imbalance handling, feature selection, calibration, and per-class evaluation. | TensorFlow, Scikit-learn, SMOTE, Jupyter |
+| [**Credit Risk Prediction**](https://github.com/Omar-Elemary/Credit-Risk-Prediction) | An end-to-end classification workflow covering EDA, preprocessing, feature engineering, cross-validation, and comparison across multiple models. | Python, Pandas, Scikit-learn, XGBoost |
+| [**EuroSat Land Use Classification**](https://github.com/Omar-Elemary/Deep-learning-EuroSat-Land-Use-Classification) | Transfer learning with ResNet50 for ten-class satellite land-use classification using stratified train, validation, and test splits. | TensorFlow, ResNet50, Computer Vision |
+| [**Music Player — Team Contribution**](https://github.com/Radwa85/Music-Player) | React Native collaboration with merged pull requests covering playlists, sorting, liked songs, and application behavior fixes. | React Native, TypeScript, Expo |
+
+## Technical stack
+
+I lead with agentic AI, RAG, and Python engineering, supported by a broad product-development toolkit.
+
+| Area | Technologies and capabilities |
+|---|---|
+| **Agentic AI & RAG** | `LangGraph` · `Multi-Agent Systems` · `RAG` · `Retrieval Workflows` · `Context Engineering` · `Evidence Grounding` · `Tool Calling` · `Function Calling` · `Structured Outputs` · `Agent Memory` · `Human-in-the-Loop` |
+| **AI, ML & data science** | `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `XGBoost` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `Feature Engineering` · `Model Evaluation` · `Cross-Validation` |
+| **LLM engineering** | `LLMs` · `Prompt Engineering` · `Grounded Generation` · `Output Validation` · `Provider Abstraction` · `Autonomous Workflows` · `Evaluation` · `Guardrails` |
+| **Backend & APIs** | `FastAPI` · `Pydantic` · `Node.js` · `Express.js` · `REST APIs` · `Web3.py` · `JSON-RPC` · `SSE` · `pytest` |
+| **Data, BI & visualization** | `SQL` · `MySQL` · `SQLite` · `Firebase` · `Power BI` · `Tableau` · `Matplotlib` · `Seaborn` · `Streamlit` |
+| **Data acquisition** | `Beautiful Soup` · `Scrapy` · `Selenium` · `Web Scraping` · `Data Cleaning` · `EDA` |
+| **Web & mobile** | `JavaScript` · `TypeScript` · `React` · `React Native` · `Expo` · `Flutter` · `Dart` · `HTML` · `CSS` |
+| **Programming foundations** | `Java` · `C` · `C++` · `OOP` · `Data Structures` · `Algorithms` · `Database Design` |
+| **DevOps & platforms** | `Git` · `GitHub` · `GitHub Actions` · `Docker` · `Azure` · `Linux` · `Jupyter` · `MLflow` |
+| **Geospatial & IoT** | `QGIS` · `Shapely` · `Spatial Analysis` · `IoT Systems` · `Sensors` · `Microcontrollers` · `Cloud–IoT Integration` |
+
+## Current focus
+
+- Developing reliable agentic and RAG systems with explicit state, retrieval, tools, budgets, evidence, and failure handling.
+- Improving retrieval quality, AI evaluation, observability, and cost-aware orchestration.
+- Turning notebooks and prototypes into reproducible, testable applications.
+- Contributing to open-source agentic AI, RAG, and MLOps projects.
+
+## Education
+
+- **B.Sc. in Computer Science**, Ain Shams University — expected 2027.
+- Focus areas: machine learning, data mining, statistics, database systems, algorithms, and software engineering.
+
+## Leadership
+
+- **Employer Relations Team Leader — ASU Career Center, Career EXPO '26**<br>
+  Coordinated employer engagement for 100+ companies and helped lead 150+ volunteers across training and event operations.
+- **Head of Data Management & HR Leader — Youth Leading Youth**<br>
+  Led data and HR operations, automated reporting workflows, mentored 100+ organizers, and trained 60+ HR members.
+
+## Selected recognition
+
+- Reported **Top 5 placement** among 100+ teams in the HERE Technologies Geospatial AI Hackathon (2026).
+- Reported **2nd place** in the IECC Competition at Nile University (2026).
+- Co-created **Fonemo**, an Arabic learning concept for children with dyslexia, selected among the final Top 3 teams in a UNESCO CIE program.
+
+<sub>Public supporting links and credentials will be added as they become available.</sub>
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Elemary&theme=github_dark"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Elemary&theme=default"
+    >
+    <img
+      alt="Omar Elemary's GitHub activity statistics"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Elemary&theme=default"
+    >
+  </picture>
 </p>
 
-### ⚙️ Tools & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-</p>
-
----
-
-### 🎓 Education
-
-* **B.Sc. in Computer Science | Ain Shams University** (2023 – 2027)  
-* **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Statistics, Business Analytics, Data Mining, Machine Learning, Linear Algebra
+<details>
+  <summary><strong>A disturbance in the agent workflow...</strong></summary>
+  <br>
+  <p align="center">
+    <em>When all the agents finally agree on the same structured output.<br>May the context be with you.</em>
+  </p>
+  <p align="center">
+    <img
+      src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"
+      width="100%"
+      alt="Star Wars themed developer animation"
+    >
+  </p>
+</details>
 
 ---
 
-### 🏆 Innovation & Impact
-
-**Hackathons & Scholarships**  
-* Ranked Top 5 worldwide in **HERE TECH Geospatial AI Hackathon (2026)**  
-* Co-created **Fonemo**, an interactive platform for children with dyslexia, recognized as **Top 3 globally** and incubated at **UNESCO CIE**  
-* Participated in **AWS x Bundesliga Challenge**, building AI/data-driven solutions for sports analytics and fan engagement
-
----
-
-### 📬 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/omar-elemary-dataanalyst" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="mailto:omarelemary99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
-  
+<p align="center">
+  <strong>Let's build something intelligent, useful, and trustworthy.</strong><br>
+  Open to applied AI, machine learning, and Python engineering opportunities.
 </p>
