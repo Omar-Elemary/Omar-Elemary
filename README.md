@@ -1,4 +1,4 @@
-# Omar Elemary
+# Hi, I am Omar Elemary
 
 **Agentic AI Engineer · RAG Builder · Applied Data Scientist**
 
