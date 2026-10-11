@@ -24,15 +24,11 @@ My focus is on turning ideas into working software through thoughtful system des
 ### [B2D — Business to Development](https://github.com/Omar-Elemary/B2D-agentic-ai)
 A multi-agent system for software planning and development workflows, with structured execution and DevOps integration.
 
-*DevOpsDays Cairo 2026 Hackathon Finalist*
-
 ### [Argus — Agentic Blockchain Intelligence](https://github.com/Omar-Elemary/Argus)
 Evidence-linked AI agents for Ethereum investigation, helping connect blockchain activity with supporting evidence.
 
 ### [Climate Finance AI Agent](https://github.com/Omar-Elemary/climate-finance-ai-agent)
 A climate-finance research system combining RAG, multi-agent debates, research tools, and opinion analytics to explore complex climate-finance questions.
-
-*Qubeterra AI NextGen — Team Award*
 
 ### [EventOS](https://github.com/Omar-Elemary/EventOS)
 An event-management project focused on bringing event workflows into a unified software experience.
